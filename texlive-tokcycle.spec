@@ -1,6 +1,6 @@
 Name:		texlive-tokcycle
 Version:	60320
-Release:	1
+Release:	2
 Summary:	Build tools to process tokens from an input stream
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tokcycle
