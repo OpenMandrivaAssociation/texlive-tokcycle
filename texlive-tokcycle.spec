@@ -3,7 +3,7 @@ Version:	60320
 Release:	2
 Summary:	Build tools to process tokens from an input stream
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tokcycle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tokcycle
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tokcycle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tokcycle.doc.r%{version}.tar.xz
